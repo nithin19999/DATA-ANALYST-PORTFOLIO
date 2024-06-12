@@ -18,7 +18,7 @@ Prior to this role, I worked as a Programmer Analyst at Cognizant from September
 
 PROJECTS
 
-I have successfully executed several projects demonstrating my analytical and problem-solving skills. In the Music Store Data Analysis Project, I utilized SQL for data cleaning, transformation, and analysis, developing advanced queries and generating dynamic reports. The COVID-19 Data Analysis Project involved using Python (Pandas, NumPy, Matplotlib) for comprehensive analysis of COVID-19 datasets, and developing interactive dashboards with PowerBI to identify trends and patterns.
+ The COVID-19 Data Analysis Project involved using Python (Pandas, NumPy) for comprehensive analysis of COVID-19 datasets, and developing interactive dashboards with PowerBI to identify trends and patterns.
 
 Additionally, during the Accenture North America Data Analytics and Visualization Job Simulation on Forage in April 2024, I served as a Data Analyst, providing insights into content trends for a hypothetical social media client. My work involved analyzing multiple datasets, preparing presentations, and effectively communicating key insights to stakeholders. Another significant project involved reducing downtime in the assembly line at Hitachi Astemo FIE Pvt Ltd, where I utilized data-driven approaches to identify inefficiencies and implement strategic adjustments.
 
